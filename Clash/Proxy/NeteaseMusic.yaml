@@ -4,12 +4,12 @@
 #          本代理完全免费，如遇收费请投诉举报卖家
 
 proxies:
-  - name: 🎶 解锁
+  - name: Unblock
     type: ss
-    server: music.desperadoj.com
-    port: 30001
-    cipher: aes-128-gcm
-    password: desperadoj.com_free_proxy_emx2
+    server: yunzhongxicao.com
+    port: 9531
+    cipher: aes-128-cfb
+    password: yunzhongxicao
   - name: ‼️ 免费代理，遇收费请举报
     type: ss
     server: 127.0.0.1
